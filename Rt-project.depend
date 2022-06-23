@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1655685207 source:c:\users\lluca\desktop\rt-project\main.cc
+	"rtweekend.h"
+	"camera.h"
+	"color.h"
+	"hittable_list.h"
+	"material.h"
+	"sphere.h"
+	<fstream>
+	"stb_image.h"
+	"stb_image_write.h"
+	<iostream>
+
+1623277743 c:\users\lluca\desktop\rt-project\hittable_list.h
+	"rtweekend.h"
+	"hittable.h"
+	<memory>
+	<vector>
+
+1623277743 c:\users\lluca\desktop\rt-project\hittable.h
+	"rtweekend.h"
+
+1623277743 c:\users\lluca\desktop\rt-project\material.h
+	"rtweekend.h"
+
+1623277743 c:\users\lluca\desktop\rt-project\sphere.h
+	"rtweekend.h"
+	"hittable.h"
+
+1623277743 c:\users\lluca\desktop\rt-project\rtweekend.h
+	<cmath>
+	<cstdlib>
+	<limits>
+	<memory>
+	"ray.h"
+	"vec3.h"
+
+1623277743 c:\users\lluca\desktop\rt-project\ray.h
+	"vec3.h"
+
+1623277743 c:\users\lluca\desktop\rt-project\vec3.h
+	<cmath>
+	<iostream>
+
+1623277743 c:\users\lluca\desktop\rt-project\camera.h
+	"rtweekend.h"
+
+1655608155 c:\users\lluca\desktop\rt-project\color.h
+	"vec3.h"
+	<iostream>
+
+1623277743 c:\users\lluca\desktop\rt-project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1623277743 c:\users\lluca\desktop\rt-project\stb_image_write.h
+	<stdarg.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
